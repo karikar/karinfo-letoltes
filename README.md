@@ -27,7 +27,11 @@ futtatni. A Microsoft Edge WebView2 kell hozzá, ez Windows 10/11-en gyárilag m
 „ismeretlen forrásból származó alkalmazások” engedélyezésére – ezt az adott alkalmazásnál
 (pl. Fájlok, Chrome) kell megengedni. Az új verzió frissítésként települ a régi fölé.
 
-**Samsung Smart TV:** Samsung-tévére az áruházon kívül csak a tévéhez kötött, Samsung-fiókkal
+**Samsung Smart TV**
+
+**⬇ Közvetlen letöltés: [`KarInfo-tv-1.0.0.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.0/KarInfo-tv-1.0.0.wgt)**
+
+Samsung-tévére az áruházon kívül csak a tévéhez kötött, Samsung-fiókkal
 készült aláírással lehet alkalmazást telepíteni. Ezt az ingyenes **Apps2Samsung** program
 elvégzi helyetted; kell hozzá egy számítógép (vagy Android-telefon) ugyanazon a hálózaton.
 
