@@ -8,9 +8,9 @@ Időjárás, műholdkép, útviszonyok, áram- és gázrendszer egy képernyőn.
 
 | Változat | Fájl | Rendszer |
 |---|---|---|
-| Windows – telepítő (ajánlott) | `KarInfo-telepito-<verzió>.exe` | 64 bites Windows 10/11 |
-| Windows – telepítés nélkül | `KarInfo-hordozhato-<verzió>.zip` | 64 bites Windows 10/11 |
-| Android | `KarInfo-<verzió>.apk` | Android 5.0 vagy újabb |
+| Windows – telepítő (ajánlott) | [`KarInfo-telepito-1.12.0.exe`](https://github.com/karikar/karinfo-letoltes/releases/download/windows-v1.12.0/KarInfo-telepito-1.12.0.exe) | 64 bites Windows 10/11 |
+| Windows – telepítés nélkül | [`KarInfo-hordozhato-1.12.0.zip`](https://github.com/karikar/karinfo-letoltes/releases/download/windows-v1.12.0/KarInfo-hordozhato-1.12.0.zip) | 64 bites Windows 10/11 |
+| Android | [`KarInfo-1.12.apk`](https://github.com/karikar/karinfo-letoltes/releases/download/android-v1.12/KarInfo-1.12.apk) | Android 5.0 vagy újabb |
 | Samsung Smart TV | [`KarInfo-tv-1.0.0.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.0/KarInfo-tv-1.0.0.wgt) | Tizen 3.0 vagy újabb (kb. 2017 utáni Samsung tévék) |
 
 A változatok külön kiadásban jelennek meg (`windows-v…`, `android-v…`, `tv-v…`),
