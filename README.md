@@ -27,6 +27,12 @@ futtatni. A Microsoft Edge WebView2 kell hozzá, ez Windows 10/11-en gyárilag m
 „ismeretlen forrásból származó alkalmazások” engedélyezésére – ezt az adott alkalmazásnál
 (pl. Fájlok, Chrome) kell megengedni. Az új verzió frissítésként települ a régi fölé.
 
+> **Samsung telefonon** (One UI 6 / Android 14-től) az **Automatikus blokkoló** bekapcsolva
+> nem enged a Galaxy Store-on és a Play Áruházon kívülről alkalmazást telepíteni – így a
+> KarInfót sem, és a programon belüli frissítést sem. Telepítés vagy frissítés előtt kapcsold ki:
+> *Beállítások → Biztonság és adatvédelem → Automatikus blokkoló*, utána vissza lehet kapcsolni.
+> A KarInfo frissítéskor erre figyelmeztet, és egy gombbal megnyitja a beállítást.
+
 **Samsung Smart TV**
 
 **⬇ Közvetlen letöltés: [`KarInfo-tv-1.0.2.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.2/KarInfo-tv-1.0.2.wgt)**
