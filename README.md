@@ -11,7 +11,7 @@ Időjárás, műholdkép, útviszonyok, áram- és gázrendszer egy képernyőn.
 | Windows – telepítő (ajánlott) | [`KarInfo-telepito-1.16.0.exe`](https://github.com/karikar/karinfo-letoltes/releases/download/windows-v1.16.0/KarInfo-telepito-1.16.0.exe) | 64 bites Windows 10/11 |
 | Windows – telepítés nélkül | [`KarInfo-hordozhato-1.16.0.zip`](https://github.com/karikar/karinfo-letoltes/releases/download/windows-v1.16.0/KarInfo-hordozhato-1.16.0.zip) | 64 bites Windows 10/11 |
 | Android | [`KarInfo-1.17.apk`](https://github.com/karikar/karinfo-letoltes/releases/download/android-v1.17/KarInfo-1.17.apk) | Android 5.0 vagy újabb |
-| Samsung Smart TV | [`KarInfo-tv-1.0.2.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.2/KarInfo-tv-1.0.2.wgt) | Tizen 3.0 vagy újabb (kb. 2017 utáni Samsung tévék) |
+| Samsung Smart TV | [`KarInfo-tv-1.0.4.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.4/KarInfo-tv-1.0.4.wgt) | Tizen 3.0 vagy újabb (kb. 2017 utáni Samsung tévék) |
 
 A változatok külön kiadásban jelennek meg (`windows-v…`, `android-v…`, `tv-v…`),
 ezért a legújabbat mindegyikből a Kiadások listájában érdemes keresni.
@@ -35,7 +35,7 @@ futtatni. A Microsoft Edge WebView2 kell hozzá, ez Windows 10/11-en gyárilag m
 
 **Samsung Smart TV**
 
-**⬇ Közvetlen letöltés: [`KarInfo-tv-1.0.2.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.2/KarInfo-tv-1.0.2.wgt)**
+**⬇ Közvetlen letöltés: [`KarInfo-tv-1.0.4.wgt`](https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.4/KarInfo-tv-1.0.4.wgt)**
 
 Samsung-tévére az áruházon kívül csak a tévéhez kötött, Samsung-fiókkal
 készült aláírással lehet alkalmazást telepíteni. Ezt az ingyenes **Apps2Samsung** program
@@ -52,7 +52,7 @@ elvégzi helyetted; kell hozzá egy számítógép (vagy Android-telefon) ugyana
    újra a tévét (kikapcsolás, utána fél percre áramtalanítás).
 3. **Telepítés:** indítsd el az Apps2Samsungot, válaszd ki a tévét, majd a saját `.wgt`
    telepítését, és add meg ezt a közvetlen letöltési linket:
-   `https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.2/KarInfo-tv-1.0.2.wgt`
+   `https://github.com/karikar/karinfo-letoltes/releases/download/tv-v1.0.4/KarInfo-tv-1.0.4.wgt`
    (vagy töltsd le a fájlt, és válaszd ki a gépről).
 4. **Samsung-fiók:** az első telepítéskor a program bekéri a Samsung-fiókodat, és azzal aláírja
    a csomagot a te tévédre. A KarInfo ezután a tévé Alkalmazások listájában marad.
