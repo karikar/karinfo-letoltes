@@ -64,8 +64,8 @@ Az Apps2Samsung közösségi, nem a Samsung által készített program; a KarInf
 
 ## Adatforrások
 
-Open-Meteo, RainViewer, OpenWeatherMap, Esri, Útinform, MAVIR, energy-charts.info,
-netzfrequenz.info, ENTSOG, GIE AGSI+. Az adatok a forrásaik felhasználási feltételei
+Open-Meteo, HungaroMet (orvosmeteorológia – fronthatás), RainViewer, OpenWeatherMap, Esri,
+Útinform, MAVIR, energy-charts.info, netzfrequenz.info, ENTSOG, GIE AGSI+. Az adatok a forrásaik felhasználási feltételei
 szerint használhatók.
 
 Ez a tároló csak a kész programokat tartalmazza.
